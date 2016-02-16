@@ -1,7 +1,7 @@
 name: Magic Flowers
 favicon: null
-layout_spectrum: 0.5
-typography_spectrum: 0.8422931898385286
+layout_spectrum: 1
+typography_spectrum: 0.36076
 title: Magic Moments Floral Design
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#635b54'
     - '#ffffff'
-    - '#d1ccb8'
-    - '#a7937e'
-    - '#69245d'
-  brandStrength: 0.10427795443683863
+    - '#89c15b'
+    - '#cfe6ae'
+    - '#b0cb85'
+    - '#b7d993'
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.8501190855167806
   rhythmicContrast: 0
