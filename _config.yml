@@ -1,6 +1,6 @@
 name: Magic Flowers
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.88318
 typography_spectrum: 0.36076
 title: Magic Moments Floral Design
 cta:
@@ -22,8 +22,8 @@ color:
     - '#cfe6ae'
     - '#b0cb85'
     - '#b7d993'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.8501190855167806
-  rhythmicContrast: 0
+  brandStrength: 0.8125
+  lightness: 0.25
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
